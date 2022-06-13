@@ -1,2 +1,5 @@
-# Proyecto-AnalizadorLexicoPython
-Elaboración de un analizador del lenguaje de Python.
+# Proyecto Analizador Lexico Python
+
+Presentó un proyecto elaborado enteramente en Lenguaje de Racket.
+
+Descripción del proyecto:
